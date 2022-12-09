@@ -1,23 +1,16 @@
 export const experienceData = [
-    {
-        id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
-    },
-    {
-        id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
-    },
-    {
-        id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
-    },
-]
+  {
+    id: 1,
+    company: "Metro mas hospital, Jaipur Rajasthan India",
+    jobtitle: "Cardiac Perfusionist",
+    startYear: "Nov 2018",
+    endYear: "Mar 2022",
+  },
+  {
+    id: 2,
+    company: "The University of Edinburgh",
+    jobtitle: "Internship - Dissection of Cadaver",
+    startYear: "Sept 2022",
+    endYear: "Present",
+  },
+];

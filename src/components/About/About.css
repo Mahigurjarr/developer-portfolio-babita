@@ -43,6 +43,7 @@
     justify-content: space-evenly;
     flex: 0.5;
     width: 100%;
+    text-align: justify;
     height: fit-content;
 }
 

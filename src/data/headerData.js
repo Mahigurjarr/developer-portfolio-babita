@@ -1,9 +1,11 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from "../assets/pdf/resume.pdf";
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
-    resumePdf: resume
-}
+  name: "Avinash Gurjar",
+  title: "Cardiac Perfusionist",
+  desciption:
+    "As a member of an open-heart surgical team, the Perfusionist is responsible for the setup and operation of extracorporeal circulation equipment  to take over the functions of a patient's heart and lungs during surgery or respiratory failure.",
+  image:
+    "https://i.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEAN0wjWeFOhzd13ujW4",
+  resumePdf: resume,
+};
