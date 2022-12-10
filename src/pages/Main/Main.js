@@ -22,7 +22,7 @@ function Main() {
   return (
     <div>
       <Helmet>
-        <title>{headerData.name} - Porfolio</title>
+        <title>{process.env.REACT_APP_TITLE} - Porfolio</title>
       </Helmet>
 
       <Navbar />

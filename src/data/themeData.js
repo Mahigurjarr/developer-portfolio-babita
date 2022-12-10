@@ -22,4 +22,24 @@ export const themeData = {
   theme: blueThemeLight,
 };
 
+export const themeOptions = [
+  blueThemeLight,
+  orangeThemeDark,
+  purpleThemeLight,
+  purpleThemeDark,
+  pinkThemeLight,
+  pinkThemeDark,
+  yellowThemeLight,
+  yellowThemeDark,
+  greenThemeLight,
+  greenThemeDark,
+  bwThemeLight,
+  bwThemeDark,
+  blueThemeLight,
+  blueThemeDark,
+  redThemeLight,
+  redThemeDark,
+  orangeThemeLight,
+];
+
 // Choose theme from above

@@ -1,6 +1,6 @@
 export const socialsData = {
   // github: 'https://github.com/',
-  facebook: "https://www.facebook.com/",
+  facebook: "https://www.facebook.com/profile.php?id=100008461628662",
   linkedIn: "https://www.linkedin.com/in/avinash-gurjar-36654722a",
   instagram: "https://www.instagram.com/avinash_kohli2.0",
   //   codepen: "https://codepen.io/",

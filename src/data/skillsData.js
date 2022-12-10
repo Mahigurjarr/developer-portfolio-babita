@@ -1,17 +1,17 @@
- export const skillsData = [
-    'HTML',
-    'Fastify',
-    'Blender',
-    'Figma',
-    'Javascript',
-    'CSS',
-    'React',
-    'Django',
-]
+export const skillsData = [
+  "img1.jpeg",
+  "img5.jpeg",
+  "img3.jpeg",
+  "img9.jpeg",
+  "img6.jpeg",
+  "img7.jpeg",
+  "img8.jpeg",
+  "img4.jpeg",
+  "img10.jpeg",
+];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
-
 
 // AVAILABLE SKILLS
 
