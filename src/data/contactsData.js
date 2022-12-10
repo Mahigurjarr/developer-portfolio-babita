@@ -1,7 +1,6 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
-
-    sheetAPI: ''
-}
+  email: "avinashsardhana@gmail.com",
+  phone: "+447459001585",
+  address: "Pentland House, Robbs loan 47, Edinburgh, Code-EH14 1TY",
+  sheetAPI: "https://formspree.io/f/myyvrlgb",
+};

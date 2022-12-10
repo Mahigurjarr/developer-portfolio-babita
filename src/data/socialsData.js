@@ -10,5 +10,5 @@ export const socialsData = {
   //   medium: "https://medium.com/@",
   //   stackOverflow: "https://stackoverflow.com/users/",
   //   gitlab: "https://gitlab.com/",
-  youtube: "https://www.youtube.com/channel/UCC-gcV_CHB4Vofd1dBum5QA    ",
+  youtube: "https://www.youtube.com/channel/UCC-gcV_CHB4Vofd1dBum5QA",
 };
