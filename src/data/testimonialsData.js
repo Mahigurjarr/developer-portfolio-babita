@@ -11,7 +11,7 @@ export const testimonialsData = [
     id: 1,
     name: "Dr. R.C Sherawat",
     title: "Chief Cardiac Surgeon",
-    text: "Avinash's upbeat personality and engaging personal style enable him to interact effectively with doctors, nurse, and patients. He is very well organized and keeps the necessary details of pre and post-operative patients.",
+    text: "Avinash's upbeat personality and engage himself to interact effectively with patients. He is well organized and keeps the necessary details of pre and post-operative patients.",
     image: boy1,
   },
   {

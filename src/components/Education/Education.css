@@ -101,9 +101,14 @@
     .education {
         min-height: 100%;
     }
-    .education-image {
+    /* .education-image {
         display: none;
+    } */
+
+    .education-body {
+        flex-direction: column;
     }
+    
     .education-description {
         flex: 1;
         margin: auto;

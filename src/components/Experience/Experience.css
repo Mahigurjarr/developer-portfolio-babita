@@ -106,8 +106,11 @@
     .experience {
         min-height: 100%;
     }
-    .experience-image {
+    /* .experience-image {
         display: none;
+    } */
+    .experience-body {
+        flex-direction: column-reverse;
     }
     .experience-description {
         flex: 1;

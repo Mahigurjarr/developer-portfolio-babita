@@ -58,7 +58,7 @@
 
 .skill--box > img {
     height: 18rem;
-    width: 16rem;
+    width: 14rem;
     pointer-events: none;
 }
 
@@ -102,14 +102,15 @@
         font-size: 3.2rem;
     }
     .skill--box {
-        width: 150px;
-        height: 150px;
+        width: 18rem;
+        height: 22rem;
         margin: 1.2rem;
         padding: 2rem 1rem;
     }
 
     .skill--box > img {
-        height: 45px;
+        height: 18rem;
+        width: 16rem;
     }
 
 
@@ -139,14 +140,15 @@
 
 @media screen and (max-width: 600px) {
     .skill--box {
-        width: 135px;
-        height: 135px;
+        width: 18rem;
+        height: 22rem;
         margin: 1.2rem;
         padding: 2rem 1rem;
     }
 
     .skill--box > img {
-        height: 40px;
+        height: 18rem;
+        width: 14rem;
     }
 
     .skillsHeader h2 {

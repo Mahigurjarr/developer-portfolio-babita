@@ -16,6 +16,7 @@ function EducationCard({ id, institution, course, startYear, endYear }) {
       backgroundColor: theme.primary30,
       "&:hover": {
         backgroundColor: theme.primary50,
+        transform: "scale(1.05)",
       },
     },
   }));
