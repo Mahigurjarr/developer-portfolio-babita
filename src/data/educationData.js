@@ -1,16 +1,23 @@
 export const educationData = [
   {
     id: 1,
-    institution: "National Institute of Medical Sciences, Rajasthan India",
-    course: "Bachelor in cardiovascular perfusion",
-    startYear: "Aug 2014",
-    endYear: "Feb 2018",
+    institution: "Kendriya Vidyalaya, Gr. Noida, Delhi NCR",
+    course: "12th (Science with Mathematics)",
+    startYear: "Apr 2016",
+    endYear: "Mar 2017",
   },
   {
     id: 2,
-    institution: "The University of Endinburgh, Scotland Uk",
-    course: "Msc Human Anatomy",
-    startYear: "Sept 2022",
+    institution: "University of Mumbai, Maharashtra IN",
+    course: "Bachelor of Science in Mathematics",
+    startYear: "Aug 2017",
+    endYear: "Oct 2020",
+  },
+  {
+    id: 3,
+    institution: "Rajasthan Technical University, Rajasthan IN",
+    course: "Masters in Computer Application",
+    startYear: "Aug 2021",
     endYear: "Present",
   },
 ];

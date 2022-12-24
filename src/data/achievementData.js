@@ -3,43 +3,13 @@ export const achievementData = {
   achievements: [
     {
       id: 1,
-      title: "Indian society of extracorporeal technology (ISECT)",
+      title: "K.V.S National Sport Meet 2017",
       details:
-        "ISECT is committed to the upliftment of clinical perfusion profession by offering academic guidelines to upcoming institutions which are running clinical perfusion training programme.",
-      date: "Oct 2020",
-      field: "Perfusionist",
-      image:
-        "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-    },
-    {
-      id: 3,
-      title: "IELTS",
-      details:
-        "The International English Language Testing System (IELTS) is designed to help you work, study or migrate to a country where English is the native language. I have cleared it thrice with score of 7.0-7.5.",
-      date: "Recent march 2022",
-      field: "Acedamics",
-      image:
-        "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-    },
-    {
-      id: 4,
-      title: "Rajeev Gandhi Scholarship, Rajasthan",
-      details:
-        "Got the Prestigious Rajeev Gandhi Scholarship, Based on my acedemics and offer letter I had for pursuing masters in abroad.",
-      date: "Aug 2022",
-      field: "Acedamics",
-      image:
-        "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-    },
-    {
-      id: 2,
-      title: "Cricket - U19",
-      details:
-        "Cricket is my passion started when I was a small kid. It makes me feel healthy, fit and a stronger person. I got a opportunity to play for Rajasthan state U19 cricket Team",
-      date: "2019",
+        "Handball is my passion started when I was in 10th standard. It makes me feel healthy, fit and a stronger person. I got an opportunity to play at state level and represent Delhi at chennai 2017, U19- Handball Team",
+      date: "2017",
       field: "Sports",
       image:
-        "https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "https://img.freepik.com/free-vector/handball-player-background_23-2147926506.jpg?w=740&t=st=1671891714~exp=1671892314~hmac=5098e663c6774aa1d4f3cf31008bc3294f8f6836d6542e894a4289f68d06e5ea",
     },
   ],
 };

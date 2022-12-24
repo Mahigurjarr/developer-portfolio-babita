@@ -177,7 +177,7 @@ function Contacts() {
                   Name
                 </label>
                 <input
-                  placeholder="Avinash Gurjar"
+                  placeholder="Mahipal Singh"
                   value={name}
                   onChange={(e) => {
                     setName(e.target.value);
@@ -323,6 +323,16 @@ function Contacts() {
                   className={classes.socialIcon}
                 >
                   <FaLinkedinIn aria-label="LinkedIn" />
+                </a>
+              )}
+              {socialsData.github && (
+                <a
+                  href={socialsData.github}
+                  target="_blank"
+                  rel="noreferrer"
+                  className={classes.socialIcon}
+                >
+                  <FaGithub aria-label="Github" />
                 </a>
               )}
               {socialsData.instagram && (

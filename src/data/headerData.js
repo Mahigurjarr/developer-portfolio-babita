@@ -1,9 +1,9 @@
 import resume from "../assets/pdf/resume.pdf";
 
 export const headerData = {
-  name: "Avinash Gurjar",
-  title: "Cardiac Perfusionist",
+  name: "Mahipal Singh",
+  title: "Devops Engineer",
   desciption:
-    "As a member of an open-heart surgical team, the Perfusionist is responsible for the setup and operation of extracorporeal circulation equipment  to take over the functions of a patient's heart and lungs during surgery or respiratory failure.",
+    "DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary to agile software development; several DevOps aspects came from the agile way of working.",
   resumePdf: resume,
 };
