@@ -8,4 +8,4 @@
 #stage 2
 FROM nginx:latest
 WORKDIR /app
-COPY /app/build /usr/share/nginx/html
+COPY ./build/ /usr/share/nginx/html
