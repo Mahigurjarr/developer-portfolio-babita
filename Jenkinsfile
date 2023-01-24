@@ -23,7 +23,7 @@ pipeline {
         stage('Testing-2') {
             steps {
                 sh 'sudo kubectl apply -f project3-deploy.yaml'
-                sh 'sleep(30)'
+                sh 'sleep 30'
                 sh 'sudo kubectl get svc -o yaml | grep hostname'
             }
         }
